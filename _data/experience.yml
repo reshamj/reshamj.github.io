@@ -1,44 +1,29 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+- company: Belkin Inc.
+  url: https://www.belkin.com/us/aboutus/
+  time: June - August 2018
+  position: Software Engineer Intern
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: California State University
+  url: http://www.fullerton.edu/
+  time: Jan - May 2019
+  position: Open Source Software Development Teaching Assistant
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
-
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
-
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
-
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
+- company: CSUF ACM Women in Tech
+  url: http://acmw.ecs.fullerton.edu/
+  time: Jan 2018 - May 2019
   position: President & Web Chair
 
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
+- company: HCL Technologies
+  url: https://www.hcltech.com/
+  time: July 2016 - July 2017
+  position: Software Engineer
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+- company: Backpacker Panda
+  url: https://www.backpackerpanda.com/
+  time: September 2015 - May 2016
+  position: Software Developer Intern
+
+- company: IEEE - IIIT Pune
+  url: http://www.isquareit.edu.in/ieee-students-branch/
+  time: August 2014 - December 2014
+  position: President

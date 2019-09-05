@@ -4,9 +4,9 @@
   "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "http-server -a localhost -p 8000"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "http-server -a localhost -p 8000",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",
@@ -17,12 +17,15 @@
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
     "browser-sync": "^2.26.7",
-    "gulp": "3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-clean-css": "3.10.0",
     "gulp-eslint": "6.0.0",
     "gulp-imagemin": "6.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "3.0.2"
+  },
+  "dependencies": {
+    "gem": "^2.4.3"
   }
 }

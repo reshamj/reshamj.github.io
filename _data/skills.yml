@@ -1,33 +1,34 @@
 languages:
+  - item: Python
+  - item: JAVA
+  - item: C ++
   - item: JavaScript (ES6)
-  - item: TypeScript
+  - item: SQL
   - item: HTML
   - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+
 
 frameworks:
-  - item: Ember & Glimmer
   - item: React
-  - item: Jekyll
   - item: Node
   - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Hadoop
+  - item: PySpark
+  - item: Py-Data
+  - item: Tensorflow
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
   - item: Chrome DevTools
   - item: Postman
-  - item: MongoDB
+  - item: Docker
+  - item: Apache Spark
+  - item: Apache Kafka
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+database:
+  - item: MySQL
+  - item: SQLite
+  - item: MongoDB
+  - item: Map-Reduce
+  - item: Cassandra 
